@@ -1,7 +1,8 @@
 # Chess reportoire
 
 Personal notes on my chess openings, going into hopefully reasonable middle
-games. Trying to talk about best engine lines and mainline responses first.
+games or completely winning traps. Trying to talk about best engine lines and
+mainline responses first.
 
 # White Pieces
 
@@ -55,17 +56,17 @@ so just plays `h3`.
 
 #### 3. Bc4 Nc6
 
-Black develops his knight, which allows us to attack the pawn on `f7`, by
+Black develops his knight, which allows White to attack the pawn on `f7`, by
 playing `4. Ng5`, which is called the fried liver attack for some reason.
 Things get complicated fast so you need to be prepared when you play this line,
-but it's effective especially at the lower levels.
+but it's effective especially at the lower levels and a surprisingly rich position.
 
-##### 4. Ng5 d5 ; 5 exd5 Na5
+##### 4. Ng5 d5 ; 5. exd5 Na5
 
 Trying to kick away the bishop, but at the same time opening a diagonal to the king.
 White plays `6. Bb5+`
 
-###### 6. Bb5+ c6 7. dxc6 bxc6
+###### 6. Bb5+ c6 ; 7. dxc6 bxc6
 
 Blocking the check twice in a row, and now we're at the point where engines
 disagree.  White can play `8. Qf3` pinning the pawn to the rook, or White can
@@ -82,7 +83,9 @@ Getting ready to castle.
 
 ###### 8. Qf3 cxb5
 
-Saccing the exchange, but maybe not intended. White responds with `9. Qxa8`
+Saccing the exchange, but maybe not intended. White responds with `9. Qxa8`.
+It's important for White not to get to greedy after this, because Black will
+gain a lot of tempo if the pawn on `a7` is captured.
 
 ###### 8. Qf3 Rb8
 
@@ -94,6 +97,102 @@ Never seen this move, but `9. Be2` seems like a fair response.
 
 This move you'll see a lot at the lower levels. White can respond by taking the
 pawn on `f7` anyway: `6. Nxf7`.
+
+
+##### 4. Ng5 Bc5
+
+The Traxler attack. Things are about to get sharp.
+
+##### 4. Ng5 Nxe4 ; 5 Bf7+ Ke7 
+
+Black ignores the threat on f7, wins a pawn and attacks the knight. The best response 
+for White is to take with the bishop in this case `5. Bf7+`. Note that taking the knight 
+with `5. Nxe4` runs into a tactic `...d5`.
+
+Black's `5 ...Ke7` is forced, after which White plays `d4`, attacking `e5` and defending 
+the knight on `g5` using the bishop on `c1`.
+
+###### 6. d4 h6
+
+`h6` is the best move in this position for Black, kicking away the defender of
+the bishop. At this point White has done enough damage to warant giving up the
+bishop pair, and the tactic on `d5` no longer works so White can safely take the
+knight `7. Nxe4`.
+
+###### 7. Nxe4 Kxf7 
+
+`Kxf7` is the only move that doesn't lose. `Qf3` looks tempting, but doesn't
+achieve much as the king can just hide on `g8`, which wouldn't be too bad a
+square for it. The pawn on `d4` is still hanging however, and we can gain
+another tempo: `8. d5`. 
+
+Black's knight has to move either up or down the board: `8 ...Ne7` or `8...Nd4`, 
+although `8...Na5` isn't more terrible and might get played as well.
+
+###### 8. d5 Nd4
+
+Black tries to get some counterplay, but this ain't an outpost. White can play
+`9.  c3` and give Black another choice. Seemingly equally valid options are `9.
+Qd3` and `9. O-O`, but I feel it's good to keep the direct pressure on in this
+case.
+
+###### 9. c3 Nb5
+
+The knight retreats and White has gained some space. Time to castle. `10. O-O`
+
+###### 10. O-O Kg8
+
+Black also works on king safety, but does block their rook in the process.
+
+###### 9. c3 Qh4
+
+The old trickster, attacking our knight on e4, which would even come with a
+check when captured. Easily defended by `10. Ng3` though, but `10. Nbd2` even
+develops a piece so should be preferred. Note that Black's horsy is still
+hanging.
+
+###### 10. Nbd2 Nf5
+
+Black has to retreat their knight, but now we can pin it to the king: `11.
+Qf3`.  The knight is lost now unless Black offers a queen trade, because we can
+always play `g4` if Black defends it in another way.
+
+###### 11. Qf3 Qf4 
+
+###### 11. Qf3 d6 ; 12. g4 g6 ;  or  11. Qf3 g6 ; 12. g4 d6
+
+White plays `12. g4` to attack the pinned knight, and Black tries to get some
+compensation.
+
+The engine move here is `13. h3`, `13. b3`, `13. c4`, and trailing `13. gxf5`,
+as I guess there's no rush to capture the knight. I'm not sure what the point
+of `h3` is.
+
+###### 10. Nbd2 Nb5
+
+This would have worked previously, but with queen on `h4` and the king on `f7`
+Black is playing a dangerous game, and every effort trying to defend the knight
+runs into a check on `d6` followed by taking the queen. For example: `11. Qa4
+Nd3 12. Nxd3 cxd6 13.  Qxh4`. The only valid responses for black here are to 
+move their king or queen, but the position is already pretty hopeless.
+
+###### 8. d5 Ne7
+
+###### 8. d5 Na5
+
+###### 7. Nxe4 d5 ; 8. Bxd5 Qxd5 ; 9. Nbc3
+
+###### 7. Nxe4 Nxd4
+
+###### 6. d4 Nxd4
+
+Poor move. Ignore the threats to win a pawn.
+
+###### 6. d4 d5
+
+Poor move. Creates some space for the king and awakens the bishop, but doesn't
+deal with the threats.
+
 
 ### 2. Nf3 Nf6
 
