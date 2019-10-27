@@ -56,10 +56,13 @@ so just plays `h3`.
 
 #### 3. Bc4 Nc6
 
-Black develops his knight, which allows White to attack the pawn on `f7`, by
-playing `4. Ng5`, which is called the fried liver attack for some reason.
-Things get complicated fast so you need to be prepared when you play this line,
-but it's effective especially at the lower levels and a surprisingly rich position.
+Black develops his knight and attacks the pawn on `e4`. However this does allow
+White to attack the pawn on `f7` by playing `4. Ng5`, which is called the fried
+liver attack for some reason.  Things get complicated fast so you need to be
+prepared when you play this line, but it's effective especially at the lower
+levels and a surprisingly rich position.
+
+The mainline goes `4. d3`, but I like playing the fried liver.
 
 ##### 4. Ng5 d5 ; 5. exd5 Na5
 
@@ -91,6 +94,82 @@ gain a lot of tempo if the pawn on `a7` is captured.
 
 Never seen this move, but `9. Be2` seems like a fair response.
 
+##### 4. Ng5 d5 ; 5. exd5 Nb4 
+
+A pretty solid, almost equalising move. Attacking `d5` and kind of taking 
+the wind out of White's sails. Always disappointed to see this. 
+
+The move for White here is to play `6. d6`. The pawn is lost, but the threat on
+`f7` can be renewed.
+
+###### 6. d6 Nbd5
+
+Not interested in taking the pawn, Black blocks the diagonal altogether. 
+This does allow White to play `7. dxc7`.
+
+###### 7. dxc7 Qxc7
+
+Black recaptures the pawn and attacks the bishop. White's best move here is to 
+play `8. d3` to defend the bishop and the knight at the same time.
+
+###### 6. d6 cxd6 ; 7. Bxf7+ Ke7 ; 8. Bb3
+
+A blunder. White plays `7. Bxf7+` and `Ke7` is forced. After the bishop retreats 
+White has a comfortable position.
+
+##### 4. Ng5 d5 ; 5. exd5 b5 
+
+Interesting counterplay. Black attacks the bishop on `c4`. The top move here 
+is to play `6. Bf1` weirdly enough. But after `6 Bf1 Qxd4`, White wins a tempo 
+with `7. Nc3` whilst keeping the pawn on `g2` defended, and attacking the 
+pawn on `b4`
+
+##### 6. Bf1 Qxd4 ; 7 Nc3 
+
+Whereever the queen moves we can take on `b4` with the bishop. Unless the 
+queen moves to a square the knight can attack from `b4` as that would win 
+another tempo. After that we can get castled, play `d3` and develop the bishop
+
+##### 4. Ng5 d5 ; 5. exd5 Nd4
+
+Black moves its knight, but not to a stable outpost so White can play `6. c3`.
+Black needs to either retreat the knight to the only safe square `f5`, or create 
+a counter attack with `h6` or `b5`.
+
+###### 6. c3 Nf5
+
+The knight has retreated to a place where it's not really doing much, and all
+its manaeouvring has left the pawn on `e5` undefended. So `7. Qe2` is a strong
+move attacking the pawn, and Black has to defend with either `Nd6` or `Bd6`.
+Everything else is weakening. `Qe7` works, but undefends `d5`. `Nd7` kind of
+defends the pawn, but runs into `8. d4`.
+
+###### 7. Qe2 Nd6
+
+Black attacks the bishop on `b4`, but it can simply retreat `8. Bb3`
+
+###### 8. Bb3 Be7
+
+The only move that doesn't lose a whole pawn in the evaluation, because 
+it stops `d4` from being as effective, and allows Black to castle.
+
+###### 6. c3 b5
+
+Ignoring the attacked knight for a moment, Black attacks our precious light
+squared bishop. As pre usual with the `b5` attack we can retreat the bishop 
+to `f1` and wait for the knight to move before capturing the pawn.
+
+###### 7. Bf1 Nxd5 ; 8. cxd4 Qxg4 
+
+Sneaky attack, still ignoring the knight and uncovering an attack on our knight.
+However, Blacks pawns are hanging so White can just capture on `d4` and then 
+capture that annoying pawn on `b5` with check.
+
+###### 9. Bxb5+ Kd8 ; 10. O-O
+
+Need to castle here as the queen is attacking `g2`.
+
+###### 9. Bxb5+ Bd7 ; 10. Bxd7+ Kxd7 ; 11. O-O
 
 
 ##### 4. Ng5 d5 ; 5 exd5 Nxd5
@@ -101,7 +180,42 @@ pawn on `f7` anyway: `6. Nxf7`.
 
 ##### 4. Ng5 Bc5
 
-The Traxler attack. Things are about to get sharp.
+The Traxler attack. Things are about to get sharp with Black ready to sacrifice 
+the bishop on `f2` and then swoop in with the knight on `e4`. White should 
+however still continue its plan of attack `f7` with `5. Nxf7`. Taking with 
+the bishop would not that be that much weaker.
+
+###### 5. Nxf7 Bxf7+
+
+Black ignores the fork and delivers a check. White definitely should not take 
+or all the initiative would go to Black (`6. Kxf7 Nxe4+ ; 7. Ke3 Qh4; 8. c3 Nxg3!`)
+so `6. Kf1`
+
+###### 6. Kf1 Qe7 
+
+Pretty much forced, as is `7. Nxh8`. Black needs to retreat its bishop and
+White can then play `8. Bf7+` to take castling rights away. A more complicated 
+line is `7 ... d5` attacking White's bishop on `c4`.
+
+###### 7. Nxh8 d5 ; 8 exd4 Nd4
+
+This is looking dangerous for white. Pretty much the only move that doesn't
+at least draw is a common idea when the knight gets pushed away by the `d5`
+pawn: `9. d6`
+
+###### 9. d6 Qxd6
+
+Any other move would lose the bishop (or the queen of course). With the queen
+temporarily out of the picture we can now try to rescue our knight: `10. Nf7`.
+Black needs to be very careful: the queen is under attack, the bishop is
+hanging, `c3` is coming, `e5` is under attack.
+
+###### 10. Nf7 Qc5
+
+The only move that doesn't drop 2 pawns in evaluation. Attacking the bishop 
+and defending `e5`, getting ready to defend the bishop if the knight gets 
+kicked away. White's reply is pretty much forced to keep the advantage: `11. d3`. 
+Defending the bishop, defending the `e4` square and unleashing the bishop on `c1`.
 
 ##### 4. Ng5 Nxe4 ; 5 Bf7+ Ke7 
 
