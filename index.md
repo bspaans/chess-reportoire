@@ -96,7 +96,7 @@ Never seen this move, but `9. Be2` seems like a fair response.
 
 ##### 4. Ng5 d5 ; 5. exd5 Nb4 
 
-A pretty solid, almost equalising move. Attacking `d5` and kind of taking 
+The Kloss Gambit. A pretty solid, almost equalising move. Attacking `d5` and kind of taking 
 the wind out of White's sails. Always disappointed to see this. 
 
 The move for White here is to play `6. d6`. The pawn is lost, but the threat on
@@ -116,6 +116,11 @@ play `8. d3` to defend the bishop and the knight at the same time.
 
 A blunder. White plays `7. Bxf7+` and `Ke7` is forced. After the bishop retreats 
 White has a comfortable position.
+
+###### 6. d6 Nfd5
+
+Not interested in taking the pawn, but also unleashing the queen on the knight
+on `g5`. White defends with `7. d3` or `7. d4`, and even `7. Nxf7` seems playable.
 
 ##### 4. Ng5 d5 ; 5. exd5 b5 
 
@@ -180,7 +185,7 @@ pawn on `f7` anyway: `6. Nxf7`.
 
 ##### 4. Ng5 Bc5
 
-The Traxler attack. Things are about to get sharp with Black ready to sacrifice 
+The Traxler counter-attack. Things are about to get sharp with Black ready to sacrifice 
 the bishop on `f2` and then swoop in with the knight on `e4`. White should 
 however still continue its plan of attack `f7` with `5. Nxf7`. Taking with 
 the bishop would not that be that much weaker.
