@@ -1,4 +1,4 @@
-# Open Game 
+# Open Game (for White)
 
 ## 1. e4 e5
 
