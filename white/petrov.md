@@ -1,4 +1,4 @@
-# Petrov (for White)
+# The Petrov or Russian Defense (for White)
 
 Reached after `1. e4 e5  2. Nf3 Nf6`. White takes the pawn on `e5` with `3.
 Nxe5`. Opening gambits are there to be accepted.

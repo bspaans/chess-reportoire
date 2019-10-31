@@ -10,66 +10,23 @@ White opens with `1. e4`. Best by test.
 
 ## 1. e4 e5
 
-White will play `2. Nf3`, developing a piece and attacking the pawn on `e5`.
-
-### 2. Nf3 Nc6
-
-Black moves his knight to `c6` to defend the pawn and develop a piece. White
-plays `3. Bc4`, developing a piece and preparing to castle. 
-[Two Knights Defense](two_knights/)
-
-### 2. Nf3 Nf6
-
-[The Petrov or Russian defense](petrov_white/). 
-
-### 2. Nf3 d6
-
-The Philidor. White plays similar lines to the Italian, first developing with
-`3. Bc4`.
-
-#### 3. Bc4 a6
-
-A slow move by Black, allowing White to seize the centre with `4. d4`. 
-
-NB. Or we could just castle?
-
-##### 4. d4 exd4
-
+[Open Game](white/open.md).
 
 ## 1. e4 c5
 
-The Sicilian defense.
-
-### 2. d4
-
-The Smith-Morra gambit. Served me well getting to 1600 in blitz, but may need
-to reevaluate this choice going forward.
-
-### 2. Nc3
-
-Another anti-Sicilian.
-
-### 2. Nf3
-
-Alright, let's play a Sicilian then.
+[The Sicilian](white/sicilian.md).
 
 ## 1. e4 e6
 
-It's the French
-
-### 2. d4 d5
-
-#### 3. exd5 exd5
-
-##### 4. c4
+[The French Defense](white/french.md).
 
 ## 1. e4 c6
 
-It's the Caro Kann.
+[Caro Kann](white/caro_kann.md).
 
 ## 1. e4 d6
 
-Pirc defense.
+[The Pirc Defense](white/pirc.md).
 
 ## 1. e4 g6
 
