@@ -12,11 +12,11 @@ White opens with `1. e4`. Best by test.
 
 Variations: 
 
-* `1. e4 e5` [Open Game](white/open.html).
-* `1. e4 c5` [The Sicilian](white/sicilian.html).
-* `1. e4 e6` [The French Defense](white/french.html).
-* `1. e4 c6` [Caro Kann](white/caro_kann.html).
-* `1. e4 d6` [The Pirc Defense](white/pirc.html).
+* `1. e4 e5` [Open Game](white/open.html)
+* `1. e4 c5` [The Sicilian](white/sicilian.html)
+* `1. e4 e6` [The French Defense](white/french.html)
+* `1. e4 c6` [Caro Kann](white/caro_kann.html)
+* `1. e4 d6` [The Pirc Defense](white/pirc.html)
 * `1. e4 g6` It's some modern stuff.
 * `1. e4 Nf6`
 * `1. e4 Nc6`

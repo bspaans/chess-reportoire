@@ -1,4 +1,4 @@
-# Italian Opening (for White)
+# Italian Game with 4 ...Nf6  5. d3 d6 (for White)
 
 ## 1. e4 e5
 
@@ -6,18 +6,7 @@
 
 #### 3. Bc4 Bc5
 
-The Italian opening. Black also moves his bishop out of the way creating a 
-symmetrical position. White can proceed by castling short. `4. O-O`. 
-
-Some rules going forward: if Black plays `d6` we should play `h3` to avoid the
-bishop pinning the knight to the queen. We should try and kick away the bishop
-on `c5`, and close its diagonal or exchange it. Pawn break usually happens on
-the `d` file. If Black 
-
 ##### 4. O-O Nf6
-
-Black develops his knight, making room to castle and also attacking the pawn on
-e4. White defends with `5. d3`
 
 ###### 5. d3 d6
 
@@ -35,9 +24,3 @@ It also makes space for the bishop to retreat in case Black plays his knight to
 However, to keep things simple I would normally play `6. h3` in this position.
 The best recommendation for black after that is a move I don't think I've ever 
 seen in any of my games (`6. h3 Na5`)
-
-##### 4. O-O d6
-
-White doesn't want to allow the bishop to pin the knight to the queen at `g4`,
-so just plays `h3`.
-
