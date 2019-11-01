@@ -1,7 +1,11 @@
 # The Petrov or Russian Defense (for White)
 
-Reached after `1. e4 e5  2. Nf3 Nf6`. White takes the pawn on `e5` with `3.
-Nxe5`. Opening gambits are there to be accepted.
+## 1. e4 e5
+
+### 2. Nf3 Nf6
+
+Black gambits their centre pawn to attack one of ours.  We don't have to stand
+for this. White takes the pawn on `e5` with `3.  Nxe5`. 
 
 #### 3. Nxe5 d6 
 

@@ -1,5 +1,7 @@
 # The Philidor Defense (for White)
 
+## 1. e4 e5
+
 ### 2. Nf3 d6
 
 The Philidor. White plays similar lines to the Italian, first developing with
