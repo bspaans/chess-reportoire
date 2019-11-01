@@ -3,10 +3,10 @@
 Personal notes on my chess openings, trying to organise my minimal knowledge
 and thoughts. The lines below provide a reportoire that hopefully lead into
 reasonable middle games or completely winning traps. Trying to talk about best
-engine lines and mainline responses first, and adding lines that you'll often 
+engine lines and mainline responses first, and adding lines that you'll often
 see in play.
 
-# White Pieces
+## White Pieces
 
 White opens with `1. e4`. Best by test.
 
@@ -21,7 +21,7 @@ Variations:
 * `1. e4 Nf6`
 * `1. e4 Nc6`
 
-# Black Pieces
+## Black Pieces
 
 Black's first move is, surprisingly enough, dependent on White's first move.
 
