@@ -12,6 +12,7 @@ Variations:
 * `3. Bc4 Bc5` [The Italian Opening](italian/)
 * `3. Bc4 Nc6` [The Italian Opening; Two Knights Defense](italian_two_knights_defense.md)
 * `3. Bc4 Be7` Hungarian Defense
+* `3. Bc4 Nd4  4. Nxd4 exd4  5. O-O` The Blackburn Shilling Gambit
 * `3. Bc4 d6` 
 * `3. Bc4 g6` 
 
