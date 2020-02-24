@@ -44,6 +44,12 @@ gain a lot of tempo if the pawn on `a7` is captured.
 
 Never seen this move, but `9. Be2` seems like a fair response.
 
+###### 6. Bb5+ Be7 ; 7. Qe2 Be7 
+
+Black defends by blocking with their bishop. We don't want to hamper our development 
+by capturing, so White defends by moving the queen to `e2`. Note that after `Be7` the pawn 
+on `d5` is hanging. Candidate moves `Bxd7` and `c4`, or `Nc3`.
+
 ##### 4. Ng5 d5 ; 5. exd5 Nb4 
 
 The Kloss Gambit. A pretty solid, almost equalising move. Attacking `d5` and kind of taking 

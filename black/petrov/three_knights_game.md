@@ -16,3 +16,12 @@ of passive maybe (`Nc6`, `Bb4`, `d6`, `Bd6`).
 drawish, but then again, we're playing Black so we're doing okay. The onus is
 on White.
 
+##### 4. Bc4 Nxe4
+
+###### 5. Nxe4
+
+###### 5. Bxe7+ Kxf7
+
+###### 6. Nxe4 d5 ; 7 Nc1 e4 ; 8. Ng1
+
+##### 4. Bb5
